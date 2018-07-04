@@ -18,4 +18,7 @@ There are 4 images and 5 classes.
 5. View (main class): it initializes five elevators and outside view on the panel and run them in multithread.
 
 ## Snapshots
-(Wait...I forgot to upload)
+### 1. Main panel
+![Alt text](/snapshots/Main.png)
+### 2. Simple demonstration
+![Alt text](/snapshots/Simple.png)
